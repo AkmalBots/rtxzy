@@ -274,7 +274,7 @@ const fdoc = {
 
 //━━━━━━━━[ BAGIAN MENU ]━━━━━━━━//
 if (teks == '404') {
-let menuu = `*© BOT WHATSAPP*`
+let menuu = `*© AlyaaXzy Bot*`
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             title: `${ucapan()} ${name}`,
@@ -288,7 +288,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                 "rows": [{
                   "title": `🚀 Speed Tes`,
                   "description": "Untuk Melihat Kecepatan Download Bot",
-                  "rowId": `.speedtest`
+                  "rowId": `.ping`
                 },{
                   "title": ` 👤 Owner`,
                   "description": "Nomor Pemilik Bot Chat P/Meminta Save Tidak Akan Di Respon",
@@ -582,18 +582,18 @@ function clockString(ms) {
 }
 function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
-  res = "Selamat DiniHari"
+  res = "Selamat DiniHari >//<"
   if (time >= 4) {
-    res = "Selamat Pagi"
+    res = "Selamat Pagi >//<"
   }
   if (time > 10) {
-    res = "Selamat Siang"
+    res = "Selamat Siang >//<"
   }
   if (time >= 15) {
-    res = "Selamat Sore"
+    res = "Selamat Sore >//<"
   }
   if (time >= 18) {
-    res = "Selamat Malam"
+    res = "Selamat Malam >//<"
   }
   return res
 }
