@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6282xxxxxx'] 
-global.mods = ['6282xxxxxx'] 
-global.prems = ['6282xxxxxx'] 
+global.owner = ['6289505165400'] 
+global.mods = ['6289505165400'] 
+global.prems = ['6289505165400'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '⫹⫺ Creator Bot ~'
-global.numberowner = '6282xxxxxx'
-global.instagram = 'https://instagram.com/prm2.0'
-global.github = 'https://github.com/BOTCAHX'
-global.dana = '6282xxxxxx'
-global.pulsa = '6282xxxxxx'
-global.gopay = ''
+global.nameowner = 'Creator bot AlyaaXzy'
+global.numberowner = '6289505165400'
+global.instagram = '-'
+global.github = 'https://github.com/AlyaaXd'
+global.dana = '085730903853'
+global.pulsa = '085730903853'
+global.gopay = '085730903853'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'BOTCAHX'
+global.namebot = 'AlyaaXzy Bot'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://github.com/AlyaaXd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.
 global.fotonya2 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© AlyaaXzy'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = 'AlyaaXzy'
+global.wm3 = '© AlyaaXzy'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -36,9 +36,9 @@ global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
+global.stiker_wait = '*Waitt kak lagi di buat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\nAlyaaXzy'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
