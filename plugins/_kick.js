@@ -15,7 +15,7 @@ await conn.groupParticipantsUpdate(m.chat, [usr], "remove"); return;
   );
   for (let user of users)
     if (user.endsWith("@s.whatsapp.net"))
-      await conn.groupParticipantsUpdate(m.chat, [user], "remove");
+      await conn.groupParticipantsUpdate(m.c.hat, [user], "remove");
 };
 
 handler.help = ['kick @user']
