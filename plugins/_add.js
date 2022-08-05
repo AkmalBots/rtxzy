@@ -57,7 +57,6 @@ handler.tags = ['group']
 handler.command = /^(add|\+)$/i
 
 handler.admin = true
-handler.owner = true
 handler.group = true
 handler.botAdmin = true
 handler.fail = null
