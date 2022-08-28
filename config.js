@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6289505165400'] 
-global.mods = ['6289505165400'] 
-global.prems = ['6289505165400'] 
+global.owner = ['6281269734000'] 
+global.mods = ['6281269734000'] 
+global.prems = ['6281269734000'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Owner AlyaaXzy'
-global.numberowner = '6289505165400'
+global.nameowner = 'Owner Akmal-XD'
+global.numberowner = '6281269734000'
 global.instagram = -'
 global.github = 'https://github.com/AlyaaXzy'
-global.dana = '085730903853'
-global.pulsa = '085730903853'
-global.gopay = '0085730903853'
+global.dana = '081269734000'
+global.pulsa = '081269734000'
+global.gopay = '081269734000'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'AlyaaXzy'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://github.com/AlyaaXd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Akmal-Bot,'
+global.gc = 'private Bot'
+global.web = 'https://youtu.be/VXHnxgb0_9s' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/a4baf14436cfb90634e7c.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/a4baf14436cfb90634e7c.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© AlyaaXzy'
+global.wm = '© Akmal-XD'
 global.watermark = wm
-global.wm2 = 'AlyaaXzy'
-global.wm3 = '© AlyaaXzy'
+global.wm2 = 'Akmal-Botz'
+global.wm3 = '© Akmal-inc'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -38,7 +38,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nAlyaaaXzy'
+global.author = 'Bot WhatsApp\nAkmalXD'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
